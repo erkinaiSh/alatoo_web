@@ -32,6 +32,11 @@ Some screenshots:
 
 ![image4](https://user-images.githubusercontent.com/58220160/103040791-a79d4180-4585-11eb-9679-29f7018daf98.jpg)
 
+![image5](https://user-images.githubusercontent.com/58220160/103040805-ae2bb900-4585-11eb-9ef0-6a55f64e965b.jpg)
+
+
+![image6](https://user-images.githubusercontent.com/58220160/103040821-b257d680-4585-11eb-9fcc-87ca7afe50f4.jpg)
+
 
 Feedbacks from groupmates: 
 
@@ -45,7 +50,4 @@ Altynai Idirisova:
 This have seen that this project is about Ala Too University,I think this is a good application ,which introduces the university and gives general information about IAU.Furthermore,I want to say that they used html,css and javascript.The most remarkable thing is that the code of this project is so clean,in order to make it precise and clean,they divided into several html files.Totally,i liked their project.
 
 
-![image5](https://user-images.githubusercontent.com/58220160/103040805-ae2bb900-4585-11eb-9ef0-6a55f64e965b.jpg)
 
-
-![image6](https://user-images.githubusercontent.com/58220160/103040821-b257d680-4585-11eb-9fcc-87ca7afe50f4.jpg)
