@@ -33,6 +33,18 @@ Some screenshots:
 ![image4](https://user-images.githubusercontent.com/58220160/103040791-a79d4180-4585-11eb-9679-29f7018daf98.jpg)
 
 
+Feedbacks from groupmates: 
+
+Aiperi Askarbek kyzy :
+
+Erkinai Shamshidinova,Aida Dosmurat kyzy and Aida Moldalieva made web application about Ala Too Internatinal University ,Which  contains all information about university ,such as history of university,all faculties and so on.I also consider  that the html,css,javascript have been successfully used on this project.The one   thing I want to  mention is the code is clean,valid.Additionally,the design of this web application is unique.
+
+
+Altynai Idirisova:
+
+This have seen that this project is about Ala Too University,I think this is a good application ,which introduces the university and gives general information about IAU.Furthermore,I want to say that they used html,css and javascript.The most remarkable thing is that the code of this project is so clean,in order to make it precise and clean,they divided into several html files.Totally,i liked their project.
+
+
 ![image5](https://user-images.githubusercontent.com/58220160/103040805-ae2bb900-4585-11eb-9ef0-6a55f64e965b.jpg)
 
 
