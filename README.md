@@ -38,7 +38,7 @@ Some screenshots:
 ![image6](https://user-images.githubusercontent.com/58220160/103040821-b257d680-4585-11eb-9fcc-87ca7afe50f4.jpg)
 
 
-Feedbacks from groupmates: 
+Feedbacks from our groupmates: 
 
 Aiperi Askarbek kyzy :
 
