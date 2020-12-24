@@ -17,7 +17,7 @@ Web Application: https://erkinaish.github.io/alatoo_web/
 
 Video presentation:  https://youtu.be/aDLQ5PgAhmI
 
-Tutorial : 
+Tutorial :  https://erkinaish.github.io/Webfinal_tutorial/.
 
 
 Some screenshots:
